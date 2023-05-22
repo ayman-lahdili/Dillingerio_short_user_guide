@@ -13,4 +13,4 @@ You will see a web page containing the following:
 - Preview area
 - Top navigation bar
 
-
+![alt text](https://github.com/ayman-lahdili/Dillingerio_short_user_guide/blob/master/import_importFrom.PNG)
